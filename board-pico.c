@@ -3126,6 +3126,7 @@ static void __init pico_init(void)
 }
 #endif
 
+/*this is just for testing*/
 static void __init pico_fixup(struct machine_desc *desc, struct tag *tags,
 							char **cmdline, struct meminfo *mi)
 {
